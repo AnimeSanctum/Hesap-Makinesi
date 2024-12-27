@@ -1,2 +1,2 @@
 # Hesap-Makinesi
-c#
+Its turkish and its a calculator.
